@@ -6,17 +6,17 @@ const projects = [
   {
     title: "Project Management System",
     description: "This is a fullstack application used to manage users, tasks, teams and projects and has user-authentication with JWT security",
-    imageUrl: "portfolio/src/assets/HomePage-desktop.png",
+    imageUrl: "src/assets/HomePage-desktop.png",
   },
   {
     title: "Portfolio",
     description: "This portfolio built using Reactjs, Framer motion, with Aurora implementation using thirdparty website Hover.dev to make it visually good looking and users can smoothly scroll across the pages ",
-    imageUrl: "portfolio/src/assets/Portfolio.png",
+    imageUrl: "src/assets/Portfolio.png",
   },
   {
     title: "Mortgage Calculator",
     description: "This calculator is built using Vanila Javascript, CSS used to calculate The intrest for the coming months according to the loan amount",
-    imageUrl: "portfolio/src/assets/Mortgage-Calculator.png",
+    imageUrl: "src/assets/Mortgage-Calculator.png",
   },
 ];
 
