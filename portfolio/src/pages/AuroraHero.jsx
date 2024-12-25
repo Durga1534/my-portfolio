@@ -91,7 +91,7 @@ export const AuroraHero = () => {
           Crafting Seamless Web Experiences
         </h1>
         <p className="my-6 max-w-xl text-center text-base leading-relaxed md:text-lg md:leading-relaxed">
-          Recently graduated with a degree in Computer Science, I am an aspiring Full-Stack Developer eager to build interactive and user-friendly web applications. Skilled in JavaScript, React, and Node.js, I am continuously learning and growing in the world of web development.
+          Hey, I'm Durga Prasad, I am an aspiring Full-Stack Developer eager to build interactive and user-friendly web applications. Skilled in JavaScript, React, and Node.js, I am continuously learning and growing in the world of web development.
         </p>
         <motion.button
           style={{
